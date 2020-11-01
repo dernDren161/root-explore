@@ -1,4 +1,11 @@
-#Exploring the ROOT programming framework
+##Exploring the ROOT programming framework
+
+Running ROOT on the local machine:
+- After downloading the binary file
+- run the `thisroot.sh` script as
+-
+      -> source /mydirectories/bin/thisroot.sh
+      -> root
 
 ## Key Learnings
 
