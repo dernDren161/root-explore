@@ -30,6 +30,8 @@
 
 - ROOT programs can load outside libraries written in C++ as well
 - These outside programs are injected inside the macros
+- These outside C++ programs when injected into the main macro are being compiled by Linux's native g++/gcc compiler and later are injected to the macro.
+
 
 - Command for macro execution: .x <my-absolute-path>/<macro-name>
 - Load a macro or libraries: .L <my-absolute-path>/<file-name>
