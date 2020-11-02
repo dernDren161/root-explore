@@ -52,6 +52,9 @@
 
 ## Other structures in Root:
 
+- TTree
+- TFile
+- Branch()
 - TChain(multiple files linked with each other)
 - TLegend,etc
 
